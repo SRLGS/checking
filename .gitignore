@@ -10,7 +10,7 @@
 
 # production
 /build
-/src/Components/Typewriter
+./src/Components/Typewriter
 
 # misc
 .DS_Store
